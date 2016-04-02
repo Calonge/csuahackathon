@@ -1,0 +1,56 @@
+.navbar {
+	background-color: black;
+}
+.navbar a{
+	color: #e8e8e8;
+}
+a{
+	color: #e8e8e8;
+	background-color: black;
+}
+#name {
+	font-size: 24pt;
+	text-align: center;
+}
+.explanation {
+	font-size: 18pt;
+	text-align: center;
+	padding-left: 30pt;
+	padding-top: 15pt;
+}
+.lastSentence{
+	font-size: 36pt;
+	text-align: left;
+	margin-left: 85pt;
+	margin-top: 20pt
+}
+.addon{
+	font-size: 36pt;
+	text-align: center;
+	padding-top: 5pt;
+}
+.storyName{
+	font-size: 48pt;
+	text-align: center;
+}
+.entertext{
+}
+.submitbutton{
+	margin-top: 5vh;
+}
+.form_group{
+	text-align: center;
+}
+.mode0{
+	text-align: right;	
+	font-size: 24px;
+}
+.mode1{
+	font-size: 24px;
+}
+.row0{
+	padding-top: 250px;
+}
+.row1{
+
+}
